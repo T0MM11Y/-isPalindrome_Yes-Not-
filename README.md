@@ -1,16 +1,13 @@
-# suitmedia_test
+"I'm working on an APK to check if sentences are palindromes! 📱 It includes text input, verification, and fetches user data from an API. The display features emails, names, and avatars, all shown using RecyclerView with pull-to-refresh and infinite scrolling."
 
-A new Flutter project.
+![!=Palindrome.png](https://github.com/T0MM11Y/-isPalindrome_Yes-Not-/raw/main/AssetDocumentation/!=Palindrome.png){:height="50%" width="50%"}
 
-## Getting Started
+![LastPages.png](https://github.com/T0MM11Y/-isPalindrome_Yes-Not-/raw/main/AssetDocumentation/LastPages.png){:height="50%" width="50%"}
 
-This project is a starting point for a Flutter application.
+![PalindromeChecker.png](https://github.com/T0MM11Y/-isPalindrome_Yes-Not-/raw/main/AssetDocumentation/PalindromeChecker.png){:height="50%" width="50%"}
 
-A few resources to get you started if this is your first Flutter project:
+![SecondPages.png](https://github.com/T0MM11Y/-isPalindrome_Yes-Not-/raw/main/AssetDocumentation/SecondPages.png){:height="50%" width="50%"}
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![SecondPagesWithSelectedUsername.png](https://github.com/T0MM11Y/-isPalindrome_Yes-Not-/raw/main/AssetDocumentation/SecondPagesWithSelectedUsername.png){:height="50%" width="50%"}
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![iSpAlINDROME.png](https://github.com/T0MM11Y/-isPalindrome_Yes-Not-/raw/main/AssetDocumentation/iSpAlINDROME.png){:height="50%" width="50%"}
